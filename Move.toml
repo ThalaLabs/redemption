@@ -4,7 +4,7 @@ version = "0.0.0"
 upgrade_policy = "immutable"
 
 [addresses]
-redemption = "0xCAFE"
+redemption = "d47ead75b923422f7967257259e7a298f029da9e5484dc7aa1a9efbd4c3ae648"
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-core.git"
